@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    
+}
+header{
+    background: linear-gradient(70deg,#743da2,#cc5180,#b94198,#9c42bb,rgb(165, 104, 131), rgb(199, 141, 171));
+ display: flex;
+ justify-content: space-between;
+ height: 30vh;
+ padding: 1rem;
+
+}
+body{
+    background: linear-gradient(70deg,#753da2f3,#cc518080,#b941978b,#9d42bb85,rgba(165, 104, 131, 0.557), rgba(254, 0, 131, 0.956));
+    
+}
+
+nav {
+  padding: 2rem;
+ height: 20vh;
+ text-align: center;
+ margin: 5px;
+ 
+}
+
+nav :hover{
+    color: white;
+}
+.img-about{
+    width: auto;
+    height: 20rem;
+    
+}
+.h1{
+    text-align: center;
+}
+header nav{
+    color: #25c4e8;
+}
+
+.img-1{
+    
+    align-content: center;
+
+    width: auto;
+    height: 40rem;
+    
+}
+.home-img2{
+    display: flex;
+
+}
+table,th,tr,td{
+    border: 2px solid rgb(231, 25, 25);
+    border-collapse: collapse ;
+    height: 5rem;
+    text-align: center;
+    font-size: 1rem;
+}
+.table{
+    display: flex;
+    
+    
+}
+.topic,.schedule,.date{
+height: 5rem;
+width: 5rem;
+}
+main{
+ display: flex;
+ flex-direction: column;
+    
+}
+div img{
+    width: auto;
+    
+}
+.img-tips{
+    width:auto;
+    
+    
+}
+.contenedor-1
+{   
+  display: flex;
+  gap: 2rem;
+}
+.img-tips{
+    width: 30rem;
+    margin: 5rem;
+}
+
+.list-1{
+    align-self: center;
+    padding: 55px;
+}
+.h2-about{
+    text-align: center;
+}
+
+
+
+.img-contact{
+    width: auto;
+    height: 20rem;
+}
+footer{
+    text-align: center;
+    background: linear-gradient(70deg,#743da2,#cc5180,#b94198,#9c42bb,rgb(165, 104, 131), rgb(199, 141, 171));
+ 
+}
